@@ -1,2 +1,4 @@
 ipk Semester 1 = 3.18
 ipk semester 2 = 3,33
+ipk semester 3 = 3.36
+ipk semester 4 = belum ada semoga bisa 4.00
